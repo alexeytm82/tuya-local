@@ -70,7 +70,6 @@ entities:
         mapping:
           - scale: 10
   - entity: switch
-    hidden: true
     name: Charging
     category: config
     dps:
